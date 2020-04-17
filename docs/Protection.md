@@ -31,3 +31,4 @@ You can also change flags on claims you own in order to toggle certain behaviour
 - `/cpassword <password>` Lock a chest, but it requires a password to open it
 - `/cmodify <player>` Allows another player to open a locked chest
 - `/chopper <on|off>` Enable or disable hopper usage to a locked chest
+- `/cpersist` Make the previous chest command persist
