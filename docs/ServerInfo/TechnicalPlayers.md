@@ -15,4 +15,4 @@ We have decreased the number of mobs that spawn in a given area from 70 to 50, h
 
 The normal mob spawn range is 8 chunks (128 blocks) but we have reduced it to 6 chunks (96 blocks). This means that any farms you build that rely on you standing nearby to allow the mobs to spawn may need to be revised for you to stand closer.
 
-Despawn range has been changed from 128 to 96 blocks. So mobs further than 96 blocks away from you will periodically be removed.
+Despawn range has been changed from 128 to 96 blocks. So mobs further than 96 blocks away from you will be removed instantly.
