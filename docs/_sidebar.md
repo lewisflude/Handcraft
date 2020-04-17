@@ -1,5 +1,3 @@
-#  Handcraft Docs
-
 - [Home](/)
 - Commands 
     - [General](Commands/General.md)
