@@ -10,4 +10,5 @@
 * `/motd` View the message of the day
 * `/tps` Show the server TPS
 * `/discord` Show the link to the Handcraft Discord
+* `/buy` Show a menu where you can see donation options
 * `/help` View a list on all available commands
