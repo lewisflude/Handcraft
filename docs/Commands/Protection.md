@@ -15,12 +15,22 @@ When you place a chest, the land surrounding it will be automatically claimed an
 
 You can also change flags on claims you own in order to toggle certain behaviours including whether PVP is allowed, animal spawning, water flow and more!
 
+### How to make a claim
+The most efficient way to create a claim is using a golden shovel. When holding a golden shovel you will see how many claim blocks you have available. You right click in the first corner of your claim, and then right click in the second corner to create your claim.
+
+### How to resize a claim
+The golden shovel is also used to resize a claim. Right click once in an existing claim to see the corner markers. Right click on a corner block and then again on a different position to move that corner.
+
+### How to delete a claim
+Use the `/abandonclaim` command while standing in a claim.
+
 ### Commands
 - `/claim` Start the claiming process
 - `/claiminfo` Show information about the claim you are in
 - `/claimflag` Set flags in a claim you own
 - `/trust <player>` Allow another player to build in your claim
 - `/buyblocks <amount>` Buy additional claim blocks for $2/block
+- `/abandonclaim` Abandon a claim you are standing in
 
 ## Chest Protection
 
