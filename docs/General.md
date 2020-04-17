@@ -12,3 +12,4 @@
 * `/discord` Show the link to the Handcraft Discord
 * `/buy` Show a menu where you can see donation options
 * `/help` View a list on all available commands
+

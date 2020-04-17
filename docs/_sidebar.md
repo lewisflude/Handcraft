@@ -5,3 +5,6 @@
 * [Economy](Economy.md)
 * [Protection](Protection.md)
 * [Moderation](Moderation.md)
+* [Donate](http://donate.handcraftmc.org)
+* [Discord](https://discord.gg/QVNEExU)
+

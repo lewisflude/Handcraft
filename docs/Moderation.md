@@ -1,5 +1,11 @@
 ## Moderation
 
+### Plugins
+
+* [EssentialsX](https://www.spigotmc.org/resources/essentialsx.9089/)
+* [CoreProtect](https://www.spigotmc.org/resources/coreprotect.8631/)
+* [OpenInv](https://dev.bukkit.org/projects/openinv)
+
 ### Inspection
 
 #### Commands
