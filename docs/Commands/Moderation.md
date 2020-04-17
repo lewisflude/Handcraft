@@ -1,14 +1,14 @@
-## Moderation
+# Moderation
 
-### Plugins
+## Plugins
 
 * [EssentialsX](https://www.spigotmc.org/resources/essentialsx.9089/)
 * [CoreProtect](https://www.spigotmc.org/resources/coreprotect.8631/)
 * [OpenInv](https://dev.bukkit.org/projects/openinv)
 
-### Inspection
+## Inspection
 
-#### Commands
+### Commands
 - `/tp <player|location>` Teleport to a player or location
 - `/home <player>:1` Teleports to a players first home
 - `/v` Become invisible to other players
@@ -17,14 +17,14 @@
 - `/openinv <player>` Look at a players inventory
 - `/openender <player>` Look at a players enderchest
 
-### Repairing
+## Repairing
 
-#### Commands
+### Commands
 - `/co rollback time:<time> radius:<number|#global> user:<player>` Rolls back a players block changes
 
-### Punishment
+## Punishment
 
-#### Commands
+### Commands
 - `/ban <player> <reason>` Ban a player forever
 - `/tempban <player> <time> <reason>` Ban a player for an amount of time
 - `/unban <player>` Unban a player
