@@ -12,4 +12,11 @@
 * `/discord` Show the link to the Handcraft Discord
 * `/buy` Show a menu where you can see donation options
 * `/help` View a list on all available commands
+* `/ref <player>` Refer a player (you'll both receive a $1000 referral bonus)
 
+## Donators
+
+Donators get access to special particle effects. Each donation tier gets access to addition effects to choose from. You can use `/pp gui` to open the particle effects selection menu.
+
+### Commands
+* `/pp gui` Open the particle effect GUI
