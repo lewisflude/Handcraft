@@ -12,7 +12,8 @@
 * `/discord` Show the link to the Handcraft Discord
 * `/buy` Show a menu where you can see donation options
 * `/help` View a list on all available commands
-* `/ref <player>` Tell us who referred you (you'll both receive a $1000 referral bonus)
+* `/pvp <on|off>` Toggle PVP
+* `/pvplist` See which players have PVP enabled
 
 ## Donators
 
