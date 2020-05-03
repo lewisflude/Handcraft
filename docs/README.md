@@ -14,12 +14,12 @@ Firstly, join the server at `play.handcraftmc.org`. You should also make yoursel
 
 This document contains a list of the commands you can use within Handcraft and is split into 6 distinct categories. This is a great starting point for learning what you can do on the server.
 
-* [General](General.md)
-* [Getting Around](GettingAround.md)
-* [Communication](Communication.md)
-* [Economy](Economy.md)
-* [Protection](Protection.md)
-* [Moderation](Moderation.md)
+* [General](Commands/General.md)
+* [Getting Around](Commands/GettingAround.md)
+* [Communication](Commands/Communication.md)
+* [Economy](Commands/Economy.md)
+* [Protection](Commands/Protection.md)
+* [Moderation](Commands/Moderation.md)
 
 
 
