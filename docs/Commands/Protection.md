@@ -32,13 +32,4 @@ Use the `/abandonclaim` command while standing in a claim.
 - `/buyblocks <amount>` Buy additional claim blocks for $2/block
 - `/abandonclaim` Abandon a claim you are standing in
 
-## Chest Protection
 
-### Commands
-- `/lock` Lock a chest
-- `/unlock` Unlock a chest 
-- `/cpublic` Lock a chest, but anyone can open it
-- `/cpassword <password>` Lock a chest, but it requires a password to open it
-- `/cmodify <player>` Allows another player to open a locked chest
-- `/chopper <on|off>` Enable or disable hopper usage to a locked chest
-- `/cpersist` Make the previous chest command persist
